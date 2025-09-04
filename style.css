@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Story+Script&display=swap');
+
 body{
-    background-color:rgb(83, 72, 185)
+    background-color:powderblue;
+    font-family: Story Script;
 }
